@@ -1,0 +1,14 @@
+Package: mytools
+Title: My Utilities Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ginny",
+           family = "Eckert",
+           role = c("aut", "cre"),
+           email = "gleckert@alaska.edu",
+           comment = c(ORCID = "0000-0002-7538-7081"))
+Description: This is an utility for environmental conversions.
+License: Apache License (>= 2.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
